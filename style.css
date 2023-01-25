@@ -113,7 +113,7 @@ ul {
   line-height: 18px;
 }
 
-@media (min-width: 550px) {
+@media (min-width: 576px) {
   .card {
     width: 600px;
     height: 400px;    
